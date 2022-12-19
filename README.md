@@ -1,24 +1,32 @@
-# Rocketseat ESLint config
+# ESLint config
 
 ## Whats included?
 
-- Standard config base;
 - React plugin;
 - React Hooks plugin;
 - JSX a11y plugin;
 - Prettier;
 
+## My rules
+- Semi-colons 😌;
+- Double quotes 🧐;
+- Identation of 4 spaces 🫡;
+
 ## Setup
 
 1. Install the dependencies
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @lucasjsr/eslint-config
+```
+
+```
+yarn add -D eslint @lucasjsr/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@rocketseat/eslint-config/react"
+  "extends": "@lucasjsr/eslint-config/react"
 }
 ```
 

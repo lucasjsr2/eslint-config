@@ -26,13 +26,14 @@ module.exports = {
   rules: {
     'prettier/prettier': ["error", {
       'printWidth': 80,
-      'tabWidth': 2,
-      'singleQuote': true,
+      'tabWidth': 4,
+      'singleQuote': false,
       'trailingComma': 'all',
       'arrowParens': 'always',
-      'semi': false,
+      'semi': true,
       'endOfLine': 'auto',
     }],
+    "react/self-closing-comp": "error",
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': 'off',
     'jsx-a11y/alt-text': [
