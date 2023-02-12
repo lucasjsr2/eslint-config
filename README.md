@@ -27,6 +27,7 @@ yarn add -D eslint @lucasjsr/eslint-config
 ```
 {
   "extends": "@lucasjsr/eslint-config/react"
+  // "extends": "@lucasjsr/eslint-config/node"
 }
 ```
 
