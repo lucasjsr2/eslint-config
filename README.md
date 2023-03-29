@@ -8,9 +8,9 @@
 - Prettier;
 
 ## My rules
-- Semi-colons 😌;
-- Double quotes 🧐;
-- Identation of 4 spaces 🫡;
+- Semi-colons 😌
+- Double quotes 🧐
+- Identation of 4 spaces 🫡
 
 ## Setup
 
