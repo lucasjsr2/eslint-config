@@ -6,7 +6,7 @@
     "main": "index.js",
     "license": "MIT",
     "repository": {
-        "url": "lucasjsr/eslint-config"
+        "url": "lucasjsr2/eslint-config"
     },
     "dependencies": {
         "@typescript-eslint/eslint-plugin": "^5.47.0",
