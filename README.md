@@ -10,7 +10,7 @@
 ## My rules
 - Semi-colons 😌
 - Double quotes 🧐
-- Identation of 4 spaces 🫡
+- 2 spaces 🫡
 
 ## Setup
 
